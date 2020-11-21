@@ -5,4 +5,5 @@ https://leetcode.com/ coding challenges
 
 | Exercise | Solution |
 | --- | ----------- |
-| [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](/problems/src/Two_Sum/Solution.java) |
+| [1. Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](/problems/two_sum/Solution.java) |
+| [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](/problems/maximum_depth_of_binary_tree/Solution.java) |
