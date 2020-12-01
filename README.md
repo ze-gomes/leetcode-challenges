@@ -13,7 +13,3 @@ https://leetcode.com/
 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Solution](/problems/src/fibonacci_number/Solution.java) |
 | [575. Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [Solution](/problems/src/distribute_candies/Solution.java) |
 | [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Solution](/problems/src/defanging-an-ip-address/Solution.java) |
-
-
-// 1108. Defanging an IP Address
-// https://leetcode.com/problems/defanging-an-ip-address/
