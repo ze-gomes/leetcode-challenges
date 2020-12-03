@@ -12,6 +12,7 @@ https://leetcode.com/
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Solution](/problems/src/valid_anagram/Solution.java) |
 | [258. Add Digits](https://leetcode.com/problems/add-digits/) | [Solution](/problems/src/add_digits/Solution.java) |
 | [268. Missing Number](https://leetcode.com/problems/missing-number/) | [Solution](/problems/src/missing_number/Solution.java) |
+| [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution](/problems/src/intersection_of_two_arrays/Solution.java) |
 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Solution](/problems/src/fibonacci_number/Solution.java) |
 | [575. Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [Solution](/problems/src/distribute_candies/Solution.java) |
 | [961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [Solution](/problems/src/n_repeated_relement_in_size_2n_array/Solution.java) |
