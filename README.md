@@ -25,6 +25,12 @@ My solutions to coding challenges from [LeetCode](https://leetcode.com/) in Java
 | [1237. Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/) | [Solution](/java/src/find_positive_integer_solution_for_a_given_equation/Solution.java) |
 | [1507. Reformat Date](https://leetcode.com/problems/reformat-date) | [Solution](/java/src/reformat_date/Solution.java) |
 
+// 1688. Count of Matches in Tournament
+// https://leetcode.com/problems/count-of-matches-in-tournament/
+
+// 1221. Split a String in Balanced Strings
+// https://leetcode.com/problems/split-a-string-in-balanced-strings/
+
 ## Javascript
 | Exercise | Solution |
 | --- | ----------- |
@@ -33,3 +39,4 @@ My solutions to coding challenges from [LeetCode](https://leetcode.com/) in Java
 | [551. Student Attendance Record I](https://leetcode.com/problems/two-sum/) | [Solution](/javascript/student-attendance-record-i.js) |
 | [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [Solution](/javascript/robot-return-to-origin.js) |
 | [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [Solution](/javascript/matrix-diagonal-sum.js) |
+
