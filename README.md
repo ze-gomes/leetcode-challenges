@@ -22,14 +22,11 @@ My solutions to coding challenges from [LeetCode](https://leetcode.com/) in Java
 | [1154. Day of the Year](https://leetcode.com/problems/day-of-the-year/) | [Solution](/java/src/day_of_the_year/Solution.java) |
 | [1185. Day of the Week](https://leetcode.com/problems/day-of-the-week/) | [Solution](/java/src/day_of_the_week/Solution.java) |
 | [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [Solution](/java/src/minimum_absolute_difference/Solution.java) |
+| [1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [Solution](/java/src/split_a_string_in_balanced_strings/Solution.java) |
 | [1237. Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/) | [Solution](/java/src/find_positive_integer_solution_for_a_given_equation/Solution.java) |
 | [1507. Reformat Date](https://leetcode.com/problems/reformat-date) | [Solution](/java/src/reformat_date/Solution.java) |
+| [1688. Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/) | [Solution](/java/src/count_of_matches_in_tournament/Solution.java) |
 
-// 1688. Count of Matches in Tournament
-// https://leetcode.com/problems/count-of-matches-in-tournament/
-
-// 1221. Split a String in Balanced Strings
-// https://leetcode.com/problems/split-a-string-in-balanced-strings/
 
 ## Javascript
 | Exercise | Solution |
