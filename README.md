@@ -1,11 +1,12 @@
 # Coding Challenges
-My solutions to coding challenges from [LeetCode](https://leetcode.com/) in Java and Javascript. Done to practise my problem solving skills in these languages.
+My solutions to coding challenges from [LeetCode](https://leetcode.com/) in Java and Javascript. Done to practise my problem solving skills and algorithms in these languages.
 
 
 ## Java
 | Exercise | Solution |
 | --- | ----------- |
 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](/java/src/two_sum/Solution.java) |
+| [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Solution](/java/src/merge_intervals/Solution.java) |
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](/java/src/maximum_depth_of_binary_tree/Solution.java) |
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Solution](/java/src/valid_palindrome/Solution.java) |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | [Solution](/java/src/majority_element/Solution.java) |
@@ -14,6 +15,7 @@ My solutions to coding challenges from [LeetCode](https://leetcode.com/) in Java
 | [268. Missing Number](https://leetcode.com/problems/missing-number/) | [Solution](/java/src/missing_number/Solution.java) |
 | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Solution](/java/src/odd_even_linked_list/Solution.java) |
 | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution](/java/src/intersection_of_two_arrays/Solution.java) |
+| [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Solution](/java/src/non_overlapping_intervals/Solution.java) |
 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Solution](/java/src/fibonacci_number/Solution.java) |
 | [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Solution](/java/src/reverse_words_in_a_string_iii/Solution.java) |
 | [575. Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [Solution](/java/src/distribute_candies/Solution.java) |
@@ -24,9 +26,9 @@ My solutions to coding challenges from [LeetCode](https://leetcode.com/) in Java
 | [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [Solution](/java/src/minimum_absolute_difference/Solution.java) |
 | [1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [Solution](/java/src/split_a_string_in_balanced_strings/Solution.java) |
 | [1237. Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/) | [Solution](/java/src/find_positive_integer_solution_for_a_given_equation/Solution.java) |
+| [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [Solution](/java/src/maximum_69_number/Solution.java) |
 | [1507. Reformat Date](https://leetcode.com/problems/reformat-date) | [Solution](/java/src/reformat_date/Solution.java) |
 | [1688. Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/) | [Solution](/java/src/count_of_matches_in_tournament/Solution.java) |
-
 
 ## Javascript
 | Exercise | Solution |
