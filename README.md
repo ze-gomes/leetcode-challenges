@@ -43,6 +43,7 @@ My solutions to coding challenges from [LeetCode](https://leetcode.com/) in Java
 | [523. Continuous Subarray Sum](https://leetcode.com/problems/two-sum/) | [Solution](/javascript/continuous-subarray-sum.js) |
 | [551. Student Attendance Record I](https://leetcode.com/problems/two-sum/) | [Solution](/javascript/student-attendance-record-i.js) |
 | [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [Solution](/javascript/robot-return-to-origin.js) |
+| [791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/) | [Solution](/javascript/custom-sort-string.js) |
 | [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [Solution](/javascript/matrix-diagonal-sum.js) |
 
 ## SQL
