@@ -3,9 +3,11 @@ My solutions to coding challenges from [LeetCode](https://leetcode.com/) in Java
 
 # Languages
 
-- [Java](#Java)
-- [Javascript](#Javascript)
-- [SQL](#SQL)
+- [Coding Challenges](#coding-challenges)
+- [Languages](#languages)
+  - [Java](#java)
+  - [Javascript](#javascript)
+  - [SQL](#sql)
 
 ## Java
 | Exercise | Solution |
@@ -51,3 +53,12 @@ My solutions to coding challenges from [LeetCode](https://leetcode.com/) in Java
 | --- | ----------- |
 | [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [Solution](/sql/duplicate-emails.sql) |
 
+
+-- 595. Big Countries
+-- https://leetcode.com/problems/big-countries/
+
+-- https://leetcode.com/problems/swap-salary/
+-- 627. Swap Salary
+
+-- https://leetcode.com/problems/not-boring-movies/
+-- 620. Not Boring Movies
