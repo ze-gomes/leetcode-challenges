@@ -40,6 +40,7 @@ My solutions to coding challenges from [LeetCode](https://leetcode.com/) in Java
 | Exercise | Solution |
 | --- | ----------- |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](/javascript/best-time-to-buy-and-sell-stock.js) |
+| [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Solution](/javascript/find-all-duplicates-in-an-array.js) |
 | [523. Continuous Subarray Sum](https://leetcode.com/problems/two-sum/) | [Solution](/javascript/continuous-subarray-sum.js) |
 | [551. Student Attendance Record I](https://leetcode.com/problems/two-sum/) | [Solution](/javascript/student-attendance-record-i.js) |
 | [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [Solution](/javascript/robot-return-to-origin.js) |
