@@ -54,13 +54,6 @@ My solutions to coding challenges from [LeetCode](https://leetcode.com/) in Java
 | Exercise | Solution |
 | --- | ----------- |
 | [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [Solution](/sql/duplicate-emails.sql) |
-
-
--- 595. Big Countries
--- https://leetcode.com/problems/big-countries/
-
--- https://leetcode.com/problems/swap-salary/
--- 627. Swap Salary
-
--- https://leetcode.com/problems/not-boring-movies/
--- 620. Not Boring Movies
+| [595. Big Countries](https://leetcode.com/problems/big-countries/) | [Solution](/sql/big-countries.sql) |
+| [627. Swap Salary](https://leetcode.com/problems/swap-salary/) | [Solution](/sql/swap-salary.sql) |
+| [620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [Solution](/sql/not-boring-movies.sql) |
