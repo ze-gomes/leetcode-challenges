@@ -47,8 +47,10 @@ My solutions to coding challenges from [LeetCode](https://leetcode.com/) in Java
 | [551. Student Attendance Record I](https://leetcode.com/problems/two-sum/) | [Solution](/javascript/student-attendance-record-i.js) |
 | [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [Solution](/javascript/robot-return-to-origin.js) |
 | [791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/) | [Solution](/javascript/custom-sort-string.js) |
+| [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Solution](/javascript/subtract-the-product-and-sum-of-digits-of-an-integer.js) |
 | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Solution](/javascript/running-sum-of-1d-array.js) |
 | [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [Solution](/javascript/matrix-diagonal-sum.js) |
+
 
 ## SQL
 | Exercise | Solution |
