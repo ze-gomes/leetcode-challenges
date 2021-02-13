@@ -23,7 +23,7 @@ My solutions to coding challenges from [LeetCode](https://leetcode.com/) in Java
 | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Solution](/java/src/odd_even_linked_list/Solution.java) |
 | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution](/java/src/intersection_of_two_arrays/Solution.java) |
 | [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Solution](/java/src/non_overlapping_intervals/Solution.java) |
-| [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Solution](/java/src/hamming_distance/Solution.java) |
+| [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/Solution) | [Solution](/java/src/hamming_distance/Solution/Solution.java) |
 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Solution](/java/src/fibonacci_number/Solution.java) |
 | [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Solution](/java/src/reverse_words_in_a_string_iii/Solution.java) |
 | [575. Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [Solution](/java/src/distribute_candies/Solution.java) |
